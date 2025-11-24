@@ -104,7 +104,7 @@ export default function ProdukterPage() {
         <div className="container mx-auto px-4 lg:px-6">
           <div className="text-center mb-12">
             <h2 className="text-3xl lg:text-4xl font-bold mb-4">Våre heisløsninger</h2>
-            <p className="text-lg text-slate-600 max-w-2xl mx-auto">
+            <p className="text-lg text-gray-600 max-w-2xl mx-auto">
               Som totalleverandør tilbyr vi et bredt spekter av heisløsninger tilpasset dine behov
             </p>
           </div>
@@ -124,7 +124,7 @@ export default function ProdukterPage() {
                 <h3 className="text-xl font-semibold mb-2 group-hover:text-[#5DADE2] transition-colors">
                   {product.title}
                 </h3>
-                <p className="text-slate-600 mb-4">
+                <p className="text-gray-600 mb-4">
                   {product.description}
                 </p>
                 <span className="inline-flex items-center gap-1 text-[#5DADE2] font-medium">
@@ -140,7 +140,7 @@ export default function ProdukterPage() {
       </section>
 
       {/* Connectivity Section */}
-      <section className="py-16 lg:py-24 bg-slate-50">
+      <section className="py-16 lg:py-24 bg-gray-50">
         <div className="container mx-auto px-4 lg:px-6">
           <div className="grid lg:grid-cols-2 gap-12 items-center">
             <div>
@@ -148,7 +148,7 @@ export default function ProdukterPage() {
               <p className="text-xl text-[#5DADE2] mb-4">
                 Fremtidens heis – intelligent, trygg og alltid oppdatert
               </p>
-              <p className="text-lg text-slate-600 mb-6">
+              <p className="text-lg text-gray-600 mb-6">
                 Med IMEM Connectivity får du mer enn bare en heis. Du får full oversikt, smartere
                 vedlikehold og økt driftssikkerhet – levert med presisjon og omtanke.
               </p>
@@ -178,7 +178,7 @@ export default function ProdukterPage() {
                   <span><strong>Smart reservedelshåndtering</strong> – Riktige deler til rett tid</span>
                 </li>
               </ul>
-              <p className="text-lg font-medium text-slate-700 italic">
+              <p className="text-lg font-medium text-gray-700 italic">
                 &ldquo;Heisen din snakker. Vi lytter.&rdquo;
               </p>
             </div>
@@ -193,7 +193,7 @@ export default function ProdukterPage() {
                   </div>
                   <div>
                     <h4 className="font-semibold">Færre driftsavbrudd</h4>
-                    <p className="text-slate-600">Forutse og forebygg problemer</p>
+                    <p className="text-gray-600">Forutse og forebygg problemer</p>
                   </div>
                 </div>
                 <div className="flex items-center gap-4">
@@ -204,7 +204,7 @@ export default function ProdukterPage() {
                   </div>
                   <div>
                     <h4 className="font-semibold">Bedre planlegging</h4>
-                    <p className="text-slate-600">Optimal vedlikeholdsplanlegging</p>
+                    <p className="text-gray-600">Optimal vedlikeholdsplanlegging</p>
                   </div>
                 </div>
                 <div className="flex items-center gap-4">
@@ -215,7 +215,7 @@ export default function ProdukterPage() {
                   </div>
                   <div>
                     <h4 className="font-semibold">Forutsigbare kostnader</h4>
-                    <p className="text-slate-600">Kontroll over utgiftene</p>
+                    <p className="text-gray-600">Kontroll over utgiftene</p>
                   </div>
                 </div>
               </div>

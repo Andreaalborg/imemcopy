@@ -43,7 +43,7 @@ export default function KontaktPage() {
                 >
                   21 41 81 03
                 </a>
-                <p className="text-slate-600 mt-4">
+                <p className="text-gray-600 mt-4">
                   Vi tar gjerne en prat om dine behov
                 </p>
               </div>
@@ -62,7 +62,7 @@ export default function KontaktPage() {
                 >
                   post@imemnorway.no
                 </a>
-                <p className="text-slate-600 mt-4">
+                <p className="text-gray-600 mt-4">
                   Vi svarer normalt innen 24 timer
                 </p>
               </div>
@@ -71,7 +71,7 @@ export default function KontaktPage() {
             {/* Company Info */}
             <div className="mt-12 text-center">
               <h3 className="text-2xl font-bold mb-6">IMEM Lifts Norway AS</h3>
-              <p className="text-lg text-slate-600 max-w-2xl mx-auto mb-8">
+              <p className="text-lg text-gray-600 max-w-2xl mx-auto mb-8">
                 Vi er en totalleverandør innen heis med full støtte fra IMEM Lifts i Spania –
                 en av Europas mest avanserte heisprodusenter. Et dedikert team med lang erfaring
                 i Norge står klare til å følge opp dine behov.
@@ -91,11 +91,11 @@ export default function KontaktPage() {
       </section>
 
       {/* Services Reminder */}
-      <section className="py-16 lg:py-24 bg-slate-50">
+      <section className="py-16 lg:py-24 bg-gray-50">
         <div className="container mx-auto px-4 lg:px-6">
           <div className="text-center mb-12">
             <h2 className="text-3xl lg:text-4xl font-bold mb-4">Hva kan vi hjelpe deg med?</h2>
-            <p className="text-lg text-slate-600 max-w-2xl mx-auto">
+            <p className="text-lg text-gray-600 max-w-2xl mx-auto">
               Vi tilbyr komplette heisløsninger for alle behov
             </p>
           </div>
@@ -145,7 +145,7 @@ export default function KontaktPage() {
       <section className="py-16 lg:py-24">
         <div className="container mx-auto px-4 lg:px-6 text-center">
           <h2 className="text-3xl lg:text-4xl font-bold mb-4">Del av IMEM-familien</h2>
-          <p className="text-lg text-slate-600 mb-8 max-w-2xl mx-auto">
+          <p className="text-lg text-gray-600 mb-8 max-w-2xl mx-auto">
             Med IMEM Lifts Norway får du det beste fra to verdener: personlig oppfølging og korte
             beslutningslinjer i Norge – kombinert med solid erfaring og produksjonskraft fra IMEM sentralt.
           </p>
