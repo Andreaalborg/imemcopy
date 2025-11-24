@@ -5,6 +5,7 @@ node_modules/
 *.log
 dist/
 build/
+.next/
 
 # Environment files
 .env
